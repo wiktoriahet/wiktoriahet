@@ -9,6 +9,10 @@
 -   Basic tests with JUnit
 -   Basic Hibernate
 
+⚡ Currently I am extending my knowledge on:
+- Hibernate
+- Spring Framework
+
 📝 Certifications I own:
 - [Microsoft Technology Associate - Introduction to Programming Using Java](https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=398&cvid=X6EgAUFSXTVNocdP%2FkPQqA%3D%3D)
 - [C++ Certified Professional Entry Level](https://www.credly.com/badges/5d2baa3b-1638-4cc4-979c-58ba46f004e8/public_url)
