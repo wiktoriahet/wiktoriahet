@@ -10,7 +10,6 @@
 -   Basic Hibernate
 
 ⚡ Currently I am extending my knowledge on:
-- Hibernate
 - Spring Framework
 
 📝 Certifications I own:
